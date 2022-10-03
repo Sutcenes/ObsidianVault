@@ -13,6 +13,7 @@
 [[einstein, infeld-1936]]
 [[camus-1947]]
 [[huxley-1948]]
+[[camus-1951]]
 [[huxley-1954]]
 [[heiddeger-1954]]
 [[ellul-1954]]

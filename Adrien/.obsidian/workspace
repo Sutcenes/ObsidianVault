@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "ac763ef9e9d6fe5c",
+        "id": "e94db85b02878ac1",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -118,19 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ac763ef9e9d6fe5c",
+  "active": "e94db85b02878ac1",
   "lastOpenFiles": [
+    "camus-1951.md",
+    "Marx est en partie un progressiste bourgeois.md",
+    "accumulation technique.md",
     "Bibliography.md",
     "camus-1947.md",
     "illitch-1973.md",
     "simondon-1969.md",
     "ellul-1954.md",
     "huxley-1954.md",
-    "heiddeger-1954.md",
-    "mumford-1934.md",
-    "butler-1872,1901.md",
-    "bacon-1627.md"
+    "heiddeger-1954.md"
   ]
 }

@@ -1,0 +1,4 @@
+Camus souligne ici comment un volet de l'approche de Marx se fonde tout entier sur l'idée de progrès développée en utopie positiviste au XIXe. 
+
+*Le messianisme scientifique de Marx est, lui, d'origine bourgeoise. Le progrès, l'avenir de la science, le culte de la technique et de la production sont des mythes bourgeoirs qui se sont constitués en dogme au XIXe siècle. On notera que le* Manifeste communiste *paraît la même année que* l'Avenir de la Science, *de Renan. Cette dernière profession de foi, consternante aux yeux d’un lecteur contemporain, donne cependant l’idée la plus juste des espoirs quasi mystiques soulevés au XIXe siècle par l’essor de l’industrie et les progrès surprenants de la science. Cet espoir est celui de la société bourgeoise elle-même, bénéficiaire du progrès technique.*
+(240)
