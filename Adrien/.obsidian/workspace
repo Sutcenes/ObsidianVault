@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "5a9082796ac91ec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac763ef9e9d6fe5c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1292817693ae31ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26d14660588652b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41d495fdb967e1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2056e10afff2c876",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed4c4b220069606e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "7e9e0d374a325257",
+    "type": "split",
+    "children": [
+      {
+        "id": "978b63f9852fd8e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b210037527e77bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09737f6922fe6f22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0967d0f003ec695",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa59ccc151cee6e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ac763ef9e9d6fe5c",
+  "lastOpenFiles": [
+    "Bibliography.md",
+    "camus-1947.md",
+    "illitch-1973.md",
+    "simondon-1969.md",
+    "ellul-1954.md",
+    "huxley-1954.md",
+    "heiddeger-1954.md",
+    "mumford-1934.md",
+    "butler-1872,1901.md",
+    "bacon-1627.md"
+  ]
+}

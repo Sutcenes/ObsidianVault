@@ -1,0 +1,1 @@
+FEYERABEND Paul, _Contre la méthode. Esquisse d'une théorie anarchiste de la connaissance_ (1975), trad. B. Jurdant et A. Schlumberger, Paris, Seuil (Points), 1979, repr.

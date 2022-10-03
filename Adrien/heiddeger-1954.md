@@ -1,0 +1,1 @@
+HEIDEGGER Martin, "La question de la technique", in : _Essais et conférences_, Paris, Gallimard, 1958 (repr. collection Tel), trad. A. Préau de : "Die Frage nach der Technik", in : _Vorträge und Aufsätze_, Pfullingen, Neske, 1954
