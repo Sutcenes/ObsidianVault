@@ -1,1 +1,3 @@
 Serres affirme que l'éternel retour, concept souvent vu comme proprement Nietschéen, trouve des antécédants tout au long du XVIIIe.
+
+*"Conçu par Kant dans sa* Théorie du ciel, *cet éternel retour se retrouve chez Auguste Comte, bien avant que Nietzsche ne l'énonce. Une ignorance immense de l'histoire des sciences l'attribue exclusivement à ce dernier. Non, il ne l'a pa inventé. Jules Verne fait partie d'un mouvement assez large, puisqu'il occupe plus siècle, de la fin duu XVIIIe siècle à la fin du suivant, où ce modèle permet d'associer le progrès à la décadence fatale liée à l'entropie : chacun prend la moitié du cycle !"* 
