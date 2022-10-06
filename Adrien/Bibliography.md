@@ -44,6 +44,7 @@
 [[collins, pinch-1993]]
 [[dennet-1995]]
 ## XXIe
+[[serres-2003]]
 [[morange-2005]]
 
 
