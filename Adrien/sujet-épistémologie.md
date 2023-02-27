@@ -1,0 +1,1 @@
+L'épistémologie est la discipline s'intéressant à la construction des savoirs.

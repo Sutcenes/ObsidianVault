@@ -1,0 +1,5 @@
+Morin, reprenant ses considérations sur le théorème de Godel ([[théorême de Godel et poupées russes épistémologique]]) explique que la totalité ne peut pas être une vérité.
+
+"Si je commence à m'analyser, il y a en moi une tension soit pathétique, soit ridicule entre deux pulsions intellectuelles contraires. C'est, d'une part, l'effort infatigable pour articuler les savoirs dispersés, l'effort vers le remembrement et, d'autre part, en même temps, le contre mouvement qui détruit cela. A de nombreuses reprises, et depuis très longtemps, j'ai cité cette phrase d'Adorno, que je re-cite en préface à *Science avec conscience* : "la totalité est la non-vérité", parole merveilleuse venant de quelqu'un qui s'est formé évidemment dans la pensée hegelienne, c'est-à-dire mû par l'aspiration à la totalité.
+
+Je crois que l'aspiration à la totalité est une aspiration à la vérité et que la reconnaissance de l'impossibilité de la totalité est une vérité très importante. C'est pourquoi la totalité est à la fois la vérité et la non-vérité."

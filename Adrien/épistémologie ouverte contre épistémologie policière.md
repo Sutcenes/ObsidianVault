@@ -1,0 +1,5 @@
+Morin propose de considérer toute théorie scientifique comme incertaine, et ouverte par le théorème de Gödel. Cela a pour implication une épistémologie elle-même ouverte. 
+
+"Tout cela nous incite à une épistémologie ouverte. L'épistémologie, il faut le souligner en ces temps d'épistémologie gendarme, n'est pas un point stratégique à occuper pour contrôler souverainement toute connaissance, rejeter toute théorie adverse, et se donner le monopole de la vérification, donc de la vérité. L'épistémologie n'est pas pontificale ni judiciaire; elle est le lieu à la fois de l'incertitude et de la dialogique. En effet, toute les incertitudes que nous avons relevées doivent se confronter, se corriger, les unes les autres, entre-dialoguer sans toutefois qu'on puisse espérer boucher avec du sparadrap idéologique la brèche ultime."
+
+[[sujet-épistémologie]]

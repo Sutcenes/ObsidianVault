@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "e94db85b02878ac1",
+        "id": "ec92d0234ad20045",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e94db85b02878ac1",
+  "active": "ec92d0234ad20045",
   "lastOpenFiles": [
-    "camus-1951.md",
-    "Marx est en partie un progressiste bourgeois.md",
-    "accumulation technique.md",
-    "Bibliography.md",
-    "camus-1947.md",
+    "einstein, infeld-1936.md",
+    "morin-2005.md",
+    "Michel Serres.md",
+    "théorême de Godel et poupées russes épistémologique.md",
+    "l'action est aussi un pari.md",
+    "de l'impossibilité de la totalité.md",
     "illitch-1973.md",
-    "simondon-1969.md",
-    "ellul-1954.md",
-    "huxley-1954.md",
-    "heiddeger-1954.md"
+    "eternel-retour-serres.md",
+    "Edgar Morin.md",
+    "morin-2014.md"
   ]
 }
