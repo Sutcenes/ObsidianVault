@@ -1,13 +1,23 @@
 # BIBLIOGRAPHIE
 ## XVIIe
 [[bacon-1627]]
-## XIVe
+[[descartes-1628]]
+## XVIII
+[[kant-1783]]
+## XIXe
 [[bernard-1865]]
 [[butler-1872,1901]]
+[[frege-1879]]
+[[frege-1884]]
 ## XXe
+[[russel-1903]]
+[[poincaré-1903]]
 [[poincaré-1905]]
 [[duhem-1906]]
 [[duhem-1908]]
+[[poincaré-1908]]
+[[poincaré-1911]]
+[[brouwer-1928]]
 [[huxley-1932]]
 [[mumford-1934]]
 [[einstein, infeld-1936]]
@@ -17,6 +27,7 @@
 [[huxley-1954]]
 [[heiddeger-1954]]
 [[ellul-1954]]
+[[heyting-1956]]
 [[koyré-1957]]
 [[huxley-1958]]
 [[toulmin-1961]]

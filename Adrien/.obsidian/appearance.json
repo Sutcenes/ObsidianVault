@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "translucency": true
+  "translucency": true,
+  "accentColor": "#efa06b",
+  "cssTheme": "Wasp",
+  "nativeMenus": false
 }

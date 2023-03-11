@@ -1,0 +1,6 @@
+Descartes, Règles pour la direction de l’esprit, 1628
+
+>On pourrait peut-ˆetre se demander pourquoi à l’intuition nous ajoutons cette autre manière de connaitre par déduction, c’est-à-dire par l’opération, qui d’une chose dont nous avons la connaissance certaine, tire des conséquences qui s’en d´eduisent n´ecessairement. Mais nous avons dû admettre ce nouveau mode ; car il est un grand nombre de choses qui, sans être évidentes par elles-mˆemes, portent cependant le caractère de la certitude, pourvu qu’elles soient déduites de principes vrais et incontestés par un mouvement continuel et non interrompu de la pensée, avec une intuition distincte de chaque chose ; tout de même que nous savons que le dernier anneau d’une longue chaîne tient au premier, encore que nous ne puissions embrasser d’un coup d’œil les anneaux intermédiaires, pourvu qu’après les avoir parcourus successivement nous nous rappelions que, depuis le premier jusqu’au dernier, tous se tiennent entre eux. (Règle 3)
+
+[[Déduction]]
+[[Formalisme Logique]]

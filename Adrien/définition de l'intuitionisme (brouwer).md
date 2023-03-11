@@ -1,0 +1,6 @@
+Brouwer, *Mathematik, Wissenschaft und Sprache*, 1928 [[brouwer-1928]]
+>A l’opposé, l’intuitionisme fait prendre conscience de l’existence extra-linguistique de la mathématique pure, et, afin d’éprouver sur cette base la correction des mathématiques traditionnelles, recherche d’abord en quelle mesure les principes logiques qui ont joué un si grand rôle dans sa construction, sont susceptibles, également dans la mathématique de l’infini, de faire fonction de moyens de passage quasiment sûrs entre constructions de pure mathématique. Cette recherche rend un verdict affirmatif pour les principes d’identité, de contradiction, et du syllogisme ; en revanche elle donne un résultat négatif pour le principe du tiers exclu, i.e. il apparaît qu’il n’y a pas en général de réalité mathématique qui correspond aux énonciations de ce dernier principe ni aux inférences reposant sur lui.
+
+Le principe du tier exclus dit qu'entre les propositions *p* et *non(p)* l'une est nécessairement vrai, sans dire laquelle. Pour l'intuitionisme, ce principe n'est pas évident, et la connaissance de la vérité ne peut être tirée que de la construction d'une solution.
+
+[[constructions et intuitionisme]] ([[heyting-1956]])

@@ -1,0 +1,4 @@
+Frege, Begriffschrift (1879)
+>Pour que, ce faisant, quelque chose d’intuitif [Anschauliches] ne puisse pas s’introduire de façon inaperçue, tout devait dépendre de l’absence de lacunes dans la chaîne de déductions. Tandis que je visais à satisfaire cette exigence le plus rigoureusement, je trouvai un obstacle dans l’inadéquation de la langue ; malgré toutes les lourdeurs provenant de l’expression, plus les relations devinrent complexes, moins elle laissa atteindre l’exactitude que mon but exigeait.
+
+Frege voit que pour satisfaire à l'exigeance formaliste et éviter l'intuition, il va être nécessaire d'utiliser un langage spécialisé. Dans son *Begriffschrift* il invente des symboles à cette fin. Quelques années plus tard, le formalisme logique d'un [[Russel]] ([[pure mathematics]]) s'appuie précisément sur l'utilisation d'un langage spécifiquement logique pour construire les mathématiques.
